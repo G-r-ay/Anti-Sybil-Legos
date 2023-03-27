@@ -287,7 +287,7 @@ To install the package, follow these steps:
 - Download the package's tar.gz file.
 
 - Open the command line interface and navigate to the directory where the tar.gz file is saved.
-- Use the command "pip install [package_name]" (in this case "pip install anti-sybil-legos") to install the package.
+- Use the command "pip install [package_name]" (in this case "pip install anti_sybil_legos-0.1.0.tar.gz") to install the package.
 - This will properly install the package and make it available for use in your system.
 
-    Note: All api-key used in this lego will be deletrd after the 14th of february
+    Note: All api-key used in this lego will be deleted after the 14th of february
